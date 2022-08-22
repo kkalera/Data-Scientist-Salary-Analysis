@@ -1,4 +1,4 @@
-# DataScientistSalaryAnalysis
+# Data Scientist Salary Analysis
  
 As an exercise in learning Microsoft Power BI, I made an anlysis of the wages of data scientists. The original dataset is included in this repository, and is provided by [Ruchi Bhatia](https://www.kaggle.com/ruchi798) on [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
